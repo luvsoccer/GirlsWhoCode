@@ -4,3 +4,6 @@ p {
  h1, h2, h3 {
   background-color:snow;
  }
+ p.italic {
+   font-style: italic;
+}
