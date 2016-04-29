@@ -2,17 +2,14 @@ p {
 color: darkturquoise;
 }
 h1 {
-color: deepskyblue;
+color: navy;
 font-size: 30px;
-font-style: oblique;
 }
 h2 {
-color : darkorchid ;
-font-size:20px;
+color : darkorchid;
 font-style: italic;
 }
 h3 {
 color : deeppink ;
-font-size:20px;
 font-style: italic;
 }
