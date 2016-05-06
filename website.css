@@ -27,7 +27,7 @@ div{
    text-align:center;
 }
 
-.nav{
+.nav > div{
    background: blue;
    float: left;
    padding:10px;
