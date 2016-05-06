@@ -20,6 +20,13 @@ div{
    
 }
 
+
+
+.nav{
+   margin: auto;
+   text-align:center;
+}
+
 .nav{
    background: blue;
    float: left;
@@ -27,3 +34,5 @@ div{
    border: 4pxwhite;
    border-radius:4px;
 }
+
+.nav > div:hover {
