@@ -16,3 +16,11 @@ h3 {
 color : white ;
 font-style: italic;
 }
+div{
+   
+}
+
+.nav{
+   background: blue;
+   float: left;
+}
