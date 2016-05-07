@@ -16,21 +16,10 @@ h3 {
 color : white ;
 font-style: italic;
 }
-div{
-   
-}
 
 
 
-.nav{
-   margin: auto;
-   text-align:center;
-}
 
-.nav > div{
-   background: blue;
-   float: left;
-   padding:10px;
    border: 4pxwhite;
    border-radius:4px;
 }
