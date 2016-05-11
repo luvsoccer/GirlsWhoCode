@@ -19,17 +19,3 @@ font-style: italic;
 
 
 
-.nav > div {
-  background: darkturquoise;
-  color: white;
-  font-family: "Verdana", monospace;
-  border: 2px blue solid;
-  border-radius: 4px;
-  text-align: center;
-  float: left;
-  padding: 10px;
-  width: 100px;
-}
-
-.nav > div:hover {
-   background: cornflowerblue;
