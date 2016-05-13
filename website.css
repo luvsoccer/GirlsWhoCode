@@ -16,6 +16,10 @@ h3 {
 color : white ;
 font-style: italic;
 }
+li {
+   color: white ;
+   font-style: italic;
+}
 .nav > div {
   background: purple;
   float: left; 
