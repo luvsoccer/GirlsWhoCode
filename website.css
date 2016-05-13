@@ -30,7 +30,7 @@ font-style: italic;
    text-align:left;
 }
 .nav > a:hover { 
-background: cornflowerblue;
+background: aqua;
 }
 .nav{
   margin: 0;
