@@ -13,7 +13,7 @@ color: white;
 font-style: italic;
 }
 h3 {
-color : DeepPink ;
+color : white ;
 font-style: italic;
 }
 ul {
@@ -26,7 +26,7 @@ ul {
   margin: 10px;
   padding: 20px;
   height: 50px;
-  border: 5px solid pink;
+  border: 5px solid DeepPink;
   border-radius:4px;
   text-align:left;
    margin: 0;
